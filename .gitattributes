@@ -1,0 +1,13 @@
+# Default behavior
+# This file is used to override language statistics
+*.svg text
+static/** linguist-vendored
+
+**/*.py linguist-detectable
+
+*.jpeg binary
+
+static/* linguist-vendored
+*.map linguist-generated
+*.bat text eol=crlf  
+*.min.css linguist-generated
